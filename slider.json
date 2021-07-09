@@ -1,0 +1,33 @@
+{
+	"sliderdata": [
+		{
+			"id": "d7b835d3-326d-49c1-bb06-91daa1aed87e",
+			"image": "./images/carrossel.jpg",
+			"title": "Exemplo 1",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt scelerisque faucibus. Nam id risus ut velit accumsan rutrum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt scelerisque faucibus. Nam id risus ut velit accumsan rutrum (...)  ",
+			"more_info": " Leia mais"
+		},
+		{
+			"id": "d7b835d3-326d-49c1-bb06-91daa1aed87e",
+			"image": "https://turinha-static.pkds.it/blog/production/2019/01/11112015/brincar-sozinho.jpg",
+			"title": "Exemplo 2",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt scelerisque faucibus. Nam id risus ut velit accumsan rutrum (...)  ",
+			"more_info": " Leia mais"
+		},
+		{
+			"id": "8c6c6de8-aed3-11eb-8529-0242ac130003",
+			"image": "https://ichef.bbci.co.uk/news/640/cpsprodpb/72DC/production/_109140492_gettyimages-998670532.jpg",
+			"title": "Exemplo 3",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt scelerisque faucibus. Nam id risus ut velit accumsan rutrum (...)  ",
+			"more_info": " Leia mais"
+		},
+		{
+			"id": "979c9a76-aed3-11eb-8529-0242ac130003",
+			"image": "https://conexaoplaneta.com.br/wp-content/uploads/2015/10/lego-crianca-brincando-800.jpg",
+			"title": "Exemplo 4",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt scelerisque faucibus. Nam id risus ut velit accumsan rutrum (...)  ",
+			"more_info": " Leia mais"
+		}
+	],
+
+}

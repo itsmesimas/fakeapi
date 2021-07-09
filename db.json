@@ -1,0 +1,136 @@
+{
+	"blogdata": [
+		{
+			"id": 1,
+			"title": "Título exemplo 1",
+			"url": "./images/blognews.jpg",
+			"imageFooter": "./images/blognewsfooter.jpg",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+			"date": "00/00/0000",
+			"author": "Admin 1"
+		},
+		{
+			"id": 2,
+			"title": "Título exemplo 2",
+			"url": "./images/blognews.jpg",
+			"imageFooter": "./images/blognewsfooter.jpg",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"date": "00/00/0000",
+			"author": "Admin 1"
+		},
+		{
+			"id": 3,
+			"title": "Título exemplo 3",
+			"url": "./images/blognews.jpg",
+			"imageFooter": "./images/blognewsfooter.jpg",
+			"description": "Aenean lobortis purus quis tortor semper vehicula.",
+			"date": "00/00/0000",
+			"author": "Admin 1"
+		},
+		{
+			"id": 4,
+			"title": "Título exemplo 4",
+			"url": "./images/blognews.jpg",
+			"imageFooter": "./images/blognewsfooter.jpg",
+			"description": "Sed laoreet urna eget mi venenatis, fermentum condimentum justo luctus.",
+			"date": "00/00/0000",
+			"author": "Admin 2"
+		},
+		{
+			"id": 5,
+			"title": "Título exemplo 5",
+			"url": "./images/blognews.jpg",
+			"imageFooter": "./images/blognewsfooter.jpg",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"date": "00/00/0000",
+			"author": "Admin 2"
+		},
+		{
+			"id": 6,
+			"title": "Título exemplo 6",
+			"url": "./images/blognews.jpg",
+			"imageFooter": "./images/blognewsfooter.jpg",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"date": "00/00/0000",
+			"author": "Admin 1"
+		},
+		{
+			"id": 7,
+			"title": "Caixa de Som Portátil JBL Clip4 com Bluetooth 10/10",
+			"description": "Caixa de som muito boa bicho.",
+			"url": "https://cdn.gatry.com/gatry-static/promocao/imagem/cfe76c6e94db548a9b1a45ecafbc4da2.jpg",
+			"author": "Usuário Atual",
+			"date": "08/07/2021"
+		},
+		{
+			"id": 8,
+			"title": "Fusilli de Arroz com Feijao Fit Food",
+			"description": "Feijão gostoso toda hora. Melhor que café aurora.",
+			"url": "https://cdn.gatry.com/gatry-static/promocao/imagem/52c056a68dc29bfd96c19f88cf4618e9.jpg",
+			"author": "Usuário Atual",
+			"date": "08/07/2021"
+		}
+	],
+	"sliderdata": [
+		{
+			"id": "d7b835d3-326d-49c1-bb06-91daa1aed87e",
+			"image": "./images/carrossel.jpg",
+			"title": "Exemplo 1",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt scelerisque faucibus. Nam id risus ut velit accumsan rutrum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt scelerisque faucibus. Nam id risus ut velit accumsan rutrum (...)  ",
+			"more_info": " Leia mais"
+		},
+		{
+			"id": "d7b835d3-326d-49c1-bb06-91daa1aed87e",
+			"image": "https://turinha-static.pkds.it/blog/production/2019/01/11112015/brincar-sozinho.jpg",
+			"title": "Exemplo 2",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt scelerisque faucibus. Nam id risus ut velit accumsan rutrum (...)  ",
+			"more_info": " Leia mais"
+		},
+		{
+			"id": "8c6c6de8-aed3-11eb-8529-0242ac130003",
+			"image": "https://ichef.bbci.co.uk/news/640/cpsprodpb/72DC/production/_109140492_gettyimages-998670532.jpg",
+			"title": "Exemplo 3",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt scelerisque faucibus. Nam id risus ut velit accumsan rutrum (...)  ",
+			"more_info": " Leia mais"
+		},
+		{
+			"id": "979c9a76-aed3-11eb-8529-0242ac130003",
+			"image": "https://conexaoplaneta.com.br/wp-content/uploads/2015/10/lego-crianca-brincando-800.jpg",
+			"title": "Exemplo 4",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt scelerisque faucibus. Nam id risus ut velit accumsan rutrum (...)  ",
+			"more_info": " Leia mais"
+		}
+	],
+	"productdata": [
+		{
+			"id": "123123",
+			"image": "./images/example.jpg",
+			"title": "Produto x",
+			"price": "LP$ xx,xx"
+		},
+		{
+			"id": "123124",
+			"image": "./images/example.jpg",
+			"title": "Produto x",
+			"price": "LP$ xx,xx"
+		},
+		{
+			"id": "123125",
+			"image": "./images/example.jpg",
+			"title": "Produto x",
+			"price": "LP$ xx,xx"
+		},
+		{
+			"id": "123126",
+			"image": "./images/example.jpg",
+			"title": "Produto x",
+			"price": "LP$ xx,xx"
+		},
+		{
+			"id": "123126",
+			"image": "./images/example.jpg",
+			"title": "Produto x",
+			"price": "LP$ xx,xx"
+		}
+	]
+}
