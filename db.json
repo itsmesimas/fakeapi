@@ -3,7 +3,7 @@
 		{
 			"id": 1,
 			"title": "Título exemplo 1",
-			"url": "./images/blognews.jpg",
+			"url": "https://image.freepik.com/free-photo/happy-black-family-watching-having-fun-while-watching-something-laptop_23-2148947222.jpg",
 			"imageFooter": "./images/blognewsfooter.jpg",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 			"date": "00/00/0000",
@@ -12,7 +12,7 @@
 		{
 			"id": 2,
 			"title": "Título exemplo 2",
-			"url": "./images/blognews.jpg",
+			"url": "https://img.freepik.com/free-photo/happy-black-family-watching-something-laptop-laughing_23-2148947221.jpg?size=626&ext=jpg&ga=GA1.2.1211985184.1624838400",
 			"imageFooter": "./images/blognewsfooter.jpg",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
 			"date": "00/00/0000",
@@ -21,7 +21,7 @@
 		{
 			"id": 3,
 			"title": "Título exemplo 3",
-			"url": "./images/blognews.jpg",
+			"url": "https://thumbs.dreamstime.com/b/fam%C3%ADlia-negra-feliz-lendo-livro-juntos-sentados-no-ch%C3%A3o-na-sala-de-estar-o-da-desfrutando-passar-quarentena-liga%C3%A7%C3%A3o-casa-e-180173917.jpg",
 			"imageFooter": "./images/blognewsfooter.jpg",
 			"description": "Aenean lobortis purus quis tortor semper vehicula.",
 			"date": "00/00/0000",
@@ -30,7 +30,7 @@
 		{
 			"id": 4,
 			"title": "Título exemplo 4",
-			"url": "./images/blognews.jpg",
+			"url": "https://img.freepik.com/free-photo/happy-black-family-watching-show-laptop_23-2148947219.jpg?size=626&ext=jpg&ga=GA1.2.1211985184.1624838400",
 			"imageFooter": "./images/blognewsfooter.jpg",
 			"description": "Sed laoreet urna eget mi venenatis, fermentum condimentum justo luctus.",
 			"date": "00/00/0000",
@@ -39,7 +39,7 @@
 		{
 			"id": 5,
 			"title": "Título exemplo 5",
-			"url": "./images/blognews.jpg",
+			"url": "https://img.freepik.com/free-photo/happy-black-family-watching-something-laptop-together_23-2148947218.jpg?size=626&ext=jpg&ga=GA1.2.1211985184.1624838400",
 			"imageFooter": "./images/blognewsfooter.jpg",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
 			"date": "00/00/0000",
@@ -48,7 +48,7 @@
 		{
 			"id": 6,
 			"title": "Título exemplo 6",
-			"url": "./images/blognews.jpg",
+			"url": "https://media.istockphoto.com/photos/happy-family-watching-movie-on-a-laptop-picture-id1182450718?k=6&m=1182450718&s=612x612&w=0&h=xIy-H2KfVB2SKMHYUSCj6FRwSH3pXyIFPzwEGqVDzuU=",
 			"imageFooter": "./images/blognewsfooter.jpg",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
 			"date": "00/00/0000",
@@ -74,7 +74,7 @@
 	"sliderdata": [
 		{
 			"id": "d7b835d3-326d-49c1-bb06-91daa1aed87e",
-			"image": "./images/carrossel.jpg",
+			"image": "https://image.freepik.com/free-photo/kids-playing-together-indoors-while-wearing-medical-masks_23-2148779550.jpg",
 			"title": "Exemplo 1",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt scelerisque faucibus. Nam id risus ut velit accumsan rutrum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt scelerisque faucibus. Nam id risus ut velit accumsan rutrum (...)  ",
 			"more_info": " Leia mais"
@@ -104,31 +104,31 @@
 	"productdata": [
 		{
 			"id": "123123",
-			"image": "./images/example.jpg",
+			"image": "https://lh3.googleusercontent.com/_yfk6VAwhka_WDRVV2s6Qxa7H6wBIoQRWPIJEJFQHuqIKAtjCdBuLmrz1_004-ViyXnsG7XgPUN2o1jFwXF2a9ukl0lroMx_-1KqxcmkoomYDnaEjMTPSZTXRUuHv3VHXITEKdJrTAI6gw5CzmoUiuAg6ymdeBr4GrpI4uif5dznjshyHW-Gb1qmiGt4oVPg4aeqiNlWug1KenfxYyfrLV43jlJKT17bQGQkN3Vdap8f0yeijA32oBwWre5WDFiuOGAxaPREAgSRxS-RZWPXKgKMfhh1Zl0l5SUPjkKhX6uJTgklRdv2KOk8-bm_zfzq1QB_uzHKOPNVT38CcEujLdlmCnOUhBcGjPRX19471Sa-3RErAIb7zZ41PA96wnyIKx5ELRe7fmPIyPOOFCRnxL-8cFB9_B1jvJAuvtiTM38HaqgO5uFHsBbHXlLX0G_MVWlexz1FlNeovlqP96aUZu_-K73PRGdr1V-Mc9YTdAfnvRhQNMCOBQ54He7gtNRgNDR-sK_ziSrZ5CsG4N4CjnlD0fFxapRC--PwG-n9_iOaXT9Gppa9kxFtIVMgjh7gUlrsMaAxXMX72TOYeJWAxClbqLvHmO4HHOeUlPUNWdlDNKhrdE3uloWF-GXVXexf4VDa8ZzcJndmGZBvo9lHrsgmZ7WAM6KioNoqpmwkdCMev10-H9GMNlMHsPWL0d1atlsRfVwQoYwJH1oU9tylCg=s260-no?authuser=2",
 			"title": "Produto x",
 			"price": "LP$ xx,xx"
 		},
 		{
 			"id": "123124",
-			"image": "./images/example.jpg",
+			"image": "https://lh3.googleusercontent.com/_yfk6VAwhka_WDRVV2s6Qxa7H6wBIoQRWPIJEJFQHuqIKAtjCdBuLmrz1_004-ViyXnsG7XgPUN2o1jFwXF2a9ukl0lroMx_-1KqxcmkoomYDnaEjMTPSZTXRUuHv3VHXITEKdJrTAI6gw5CzmoUiuAg6ymdeBr4GrpI4uif5dznjshyHW-Gb1qmiGt4oVPg4aeqiNlWug1KenfxYyfrLV43jlJKT17bQGQkN3Vdap8f0yeijA32oBwWre5WDFiuOGAxaPREAgSRxS-RZWPXKgKMfhh1Zl0l5SUPjkKhX6uJTgklRdv2KOk8-bm_zfzq1QB_uzHKOPNVT38CcEujLdlmCnOUhBcGjPRX19471Sa-3RErAIb7zZ41PA96wnyIKx5ELRe7fmPIyPOOFCRnxL-8cFB9_B1jvJAuvtiTM38HaqgO5uFHsBbHXlLX0G_MVWlexz1FlNeovlqP96aUZu_-K73PRGdr1V-Mc9YTdAfnvRhQNMCOBQ54He7gtNRgNDR-sK_ziSrZ5CsG4N4CjnlD0fFxapRC--PwG-n9_iOaXT9Gppa9kxFtIVMgjh7gUlrsMaAxXMX72TOYeJWAxClbqLvHmO4HHOeUlPUNWdlDNKhrdE3uloWF-GXVXexf4VDa8ZzcJndmGZBvo9lHrsgmZ7WAM6KioNoqpmwkdCMev10-H9GMNlMHsPWL0d1atlsRfVwQoYwJH1oU9tylCg=s260-no?authuser=2",
 			"title": "Produto x",
 			"price": "LP$ xx,xx"
 		},
 		{
 			"id": "123125",
-			"image": "./images/example.jpg",
+			"image": "https://lh3.googleusercontent.com/_yfk6VAwhka_WDRVV2s6Qxa7H6wBIoQRWPIJEJFQHuqIKAtjCdBuLmrz1_004-ViyXnsG7XgPUN2o1jFwXF2a9ukl0lroMx_-1KqxcmkoomYDnaEjMTPSZTXRUuHv3VHXITEKdJrTAI6gw5CzmoUiuAg6ymdeBr4GrpI4uif5dznjshyHW-Gb1qmiGt4oVPg4aeqiNlWug1KenfxYyfrLV43jlJKT17bQGQkN3Vdap8f0yeijA32oBwWre5WDFiuOGAxaPREAgSRxS-RZWPXKgKMfhh1Zl0l5SUPjkKhX6uJTgklRdv2KOk8-bm_zfzq1QB_uzHKOPNVT38CcEujLdlmCnOUhBcGjPRX19471Sa-3RErAIb7zZ41PA96wnyIKx5ELRe7fmPIyPOOFCRnxL-8cFB9_B1jvJAuvtiTM38HaqgO5uFHsBbHXlLX0G_MVWlexz1FlNeovlqP96aUZu_-K73PRGdr1V-Mc9YTdAfnvRhQNMCOBQ54He7gtNRgNDR-sK_ziSrZ5CsG4N4CjnlD0fFxapRC--PwG-n9_iOaXT9Gppa9kxFtIVMgjh7gUlrsMaAxXMX72TOYeJWAxClbqLvHmO4HHOeUlPUNWdlDNKhrdE3uloWF-GXVXexf4VDa8ZzcJndmGZBvo9lHrsgmZ7WAM6KioNoqpmwkdCMev10-H9GMNlMHsPWL0d1atlsRfVwQoYwJH1oU9tylCg=s260-no?authuser=2",
 			"title": "Produto x",
 			"price": "LP$ xx,xx"
 		},
 		{
 			"id": "123126",
-			"image": "./images/example.jpg",
+			"image": "https://lh3.googleusercontent.com/_yfk6VAwhka_WDRVV2s6Qxa7H6wBIoQRWPIJEJFQHuqIKAtjCdBuLmrz1_004-ViyXnsG7XgPUN2o1jFwXF2a9ukl0lroMx_-1KqxcmkoomYDnaEjMTPSZTXRUuHv3VHXITEKdJrTAI6gw5CzmoUiuAg6ymdeBr4GrpI4uif5dznjshyHW-Gb1qmiGt4oVPg4aeqiNlWug1KenfxYyfrLV43jlJKT17bQGQkN3Vdap8f0yeijA32oBwWre5WDFiuOGAxaPREAgSRxS-RZWPXKgKMfhh1Zl0l5SUPjkKhX6uJTgklRdv2KOk8-bm_zfzq1QB_uzHKOPNVT38CcEujLdlmCnOUhBcGjPRX19471Sa-3RErAIb7zZ41PA96wnyIKx5ELRe7fmPIyPOOFCRnxL-8cFB9_B1jvJAuvtiTM38HaqgO5uFHsBbHXlLX0G_MVWlexz1FlNeovlqP96aUZu_-K73PRGdr1V-Mc9YTdAfnvRhQNMCOBQ54He7gtNRgNDR-sK_ziSrZ5CsG4N4CjnlD0fFxapRC--PwG-n9_iOaXT9Gppa9kxFtIVMgjh7gUlrsMaAxXMX72TOYeJWAxClbqLvHmO4HHOeUlPUNWdlDNKhrdE3uloWF-GXVXexf4VDa8ZzcJndmGZBvo9lHrsgmZ7WAM6KioNoqpmwkdCMev10-H9GMNlMHsPWL0d1atlsRfVwQoYwJH1oU9tylCg=s260-no?authuser=2",
 			"title": "Produto x",
 			"price": "LP$ xx,xx"
 		},
 		{
 			"id": "123126",
-			"image": "./images/example.jpg",
+			"image": "https://lh3.googleusercontent.com/_yfk6VAwhka_WDRVV2s6Qxa7H6wBIoQRWPIJEJFQHuqIKAtjCdBuLmrz1_004-ViyXnsG7XgPUN2o1jFwXF2a9ukl0lroMx_-1KqxcmkoomYDnaEjMTPSZTXRUuHv3VHXITEKdJrTAI6gw5CzmoUiuAg6ymdeBr4GrpI4uif5dznjshyHW-Gb1qmiGt4oVPg4aeqiNlWug1KenfxYyfrLV43jlJKT17bQGQkN3Vdap8f0yeijA32oBwWre5WDFiuOGAxaPREAgSRxS-RZWPXKgKMfhh1Zl0l5SUPjkKhX6uJTgklRdv2KOk8-bm_zfzq1QB_uzHKOPNVT38CcEujLdlmCnOUhBcGjPRX19471Sa-3RErAIb7zZ41PA96wnyIKx5ELRe7fmPIyPOOFCRnxL-8cFB9_B1jvJAuvtiTM38HaqgO5uFHsBbHXlLX0G_MVWlexz1FlNeovlqP96aUZu_-K73PRGdr1V-Mc9YTdAfnvRhQNMCOBQ54He7gtNRgNDR-sK_ziSrZ5CsG4N4CjnlD0fFxapRC--PwG-n9_iOaXT9Gppa9kxFtIVMgjh7gUlrsMaAxXMX72TOYeJWAxClbqLvHmO4HHOeUlPUNWdlDNKhrdE3uloWF-GXVXexf4VDa8ZzcJndmGZBvo9lHrsgmZ7WAM6KioNoqpmwkdCMev10-H9GMNlMHsPWL0d1atlsRfVwQoYwJH1oU9tylCg=s260-no?authuser=2",
 			"title": "Produto x",
 			"price": "LP$ xx,xx"
 		}
